@@ -1,3 +1,8 @@
+This repo was made following this site:
+https://www.freecodecamp.org/news/how-to-build-a-react-project-with-create-react-app-in-10-steps/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
