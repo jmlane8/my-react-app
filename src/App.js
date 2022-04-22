@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <div className='App-logo'>
         <Logo style={{height:200}} />
+        </div>
         <h1>React Posts Sharer</h1>
       </header>
       <Posts/>
